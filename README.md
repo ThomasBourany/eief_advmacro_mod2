@@ -24,7 +24,9 @@ The course begins with heterogeneity, welfare, and the case for policy; introduc
 
 ## Readings and preparation
 
-The slides are the primary course reference. Required readings are marked with **★** in the course outline.
+The slides are the primary course reference.
+
+\* Required reading. Links point to the journal record when available, or otherwise to the official working-paper page.
 
 - Lars Ljungqvist and Thomas Sargent, *Recursive Macroeconomic Theory* (latest edition).
 - Nancy Stokey, Robert Lucas, and Edward Prescott, *Recursive Methods in Economic Dynamics* (1989).
@@ -61,7 +63,7 @@ Survey and review articles are strongly encouraged, especially for students prep
 
 - General-equilibrium theory: welfare theorems, the Negishi theorem, market failures, and efficiency.
 - Heterogeneity and aggregation.
-- Welfare decomposition: efficiency, redistribution, and insurance. **★** One required reading: Bhandari, Evans, Golosov, and Sargent, *Efficiency, Insurance, and Redistribution Effects of Government Policies*; or Davila and Schaab, *Welfare Assessments with Heterogeneous Individuals*.
+- Welfare decomposition: efficiency, redistribution, and insurance. One required reading: \* [Bhandari, Evans, Golosov, and Sargent (2026)](https://www.nber.org/papers/w34907); or [Dávila and Schaab (2025)](https://www.journals.uchicago.edu/doi/10.1086/736211).
 - Wedges, shocks, and business cycles.
 - If time permits: the scope for fiscal, monetary, industrial, climate, development, and trade policy. Suggested industrial-policy readings include Juhasz, Lane, and Rodrik, *The New Economics of Industrial Policy*, and Bartelme, Costinot, Donaldson, and Rodriguez-Clare, *The Textbook Case for Industrial Policy*.
 
@@ -82,10 +84,10 @@ Computational methods for heterogeneous-agent models with and without aggregate 
 
 #### Firm heterogeneity and frictions: misallocation and market power
 
-- **★ Misallocation:** Hsieh and Klenow, *Misallocation and Manufacturing TFP in China and India*, alongside related work on firm dynamics and wedges.
-- **★ Aggregate trends:** rising markups, the declining labor share, concentration, and productivity dispersion. Required reading: De Loecker, Eeckhout, and Unger, *The Rise of Market Power and the Macroeconomic Implications*.
-- **★ Market power and endogenous markups:** Atkeson and Burstein, *Pricing-to-Market, Trade Costs, and International Relative Prices*; and Edmond, Midrigan, and Xu, *How Costly Are Markups?*
-- If time permits: production networks, Hulten's theorem, and misallocation in networks. **★** Baqaee and Farhi, *Productivity and Misallocation in General Equilibrium*.
+- Misallocation: \* [Hsieh and Klenow (2009)](https://academic.oup.com/qje/article/124/4/1403/1917179), alongside related work on firm dynamics and wedges.
+- Aggregate trends: rising markups, the declining labor share, concentration, and productivity dispersion. Required reading: \* [De Loecker, Eeckhout, and Unger (2020)](https://academic.oup.com/qje/article/135/2/561/5714769).
+- Market power and endogenous markups: \* [Atkeson and Burstein (2008)](https://www.aeaweb.org/articles?id=10.1257/aer.98.5.1998); and \* [Edmond, Midrigan, and Xu (2023)](https://www.journals.uchicago.edu/doi/10.1086/722986).
+- If time permits: production networks, Hulten's theorem, and misallocation in networks. \* [Baqaee and Farhi (2020)](https://academic.oup.com/qje/article/135/1/105/5573281).
 - If time permits: financial frictions, macrofinance, and empirical work on firm dynamics with financial frictions.
 
 **Homework 2:** A model with a firm-size distribution, productivity and markup heterogeneity, and calibration to firm-level data (Compustat).
@@ -96,11 +98,11 @@ Models and empirics of firm dynamics are covered more extensively in Bernardo Ri
 
 #### Household heterogeneity, nominal rigidities, and HANK policy analysis
 
-- **★ Baseline HANK model:** Auclert, *HANK: A New Core of Usable Macroeconomics*.
-- **★ Aggregate demand and aggregation:** Werning, *Incomplete Markets and Aggregate Demand*; Farhi and Werning, *A Theory of Macroprudential Policies in the Presence of Nominal Rigidities*.
+- Baseline HANK model: \* [Auclert (2025)](https://www.aeaweb.org/articles?id=10.1257/pandp.20251114).
+- Aggregate demand and aggregation: \* [Werning (2015)](https://www.nber.org/papers/w21448); \* [Farhi and Werning (2016)](https://onlinelibrary.wiley.com/doi/10.3982/ECTA11883).
 - Quantitative HANK models, including work by McKay, Kaplan, Moll, Violante, and Auclert, Rognlie, and Straub.
 - Applications to credit constraints, precautionary saving, redistribution, monetary and fiscal policy, and marginal propensities to consume.
-- Optimal policy in HANK models. **★** One reading from the indicated set will be selected later.
+- Optimal policy in HANK models. \* One reading from the indicated set will be selected later.
 - Modern empirical work on monetary and fiscal policy.
 
 **Homework 3:** Shock transmission in HANK models and the design of fiscal and monetary policy.
