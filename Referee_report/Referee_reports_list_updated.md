@@ -1,7 +1,7 @@
 # Potential Papers for the Referee Report
 
 
-## Household Risk, Wealth, and Aggregate Fluctuations.
+## 1. Household Risk, Wealth, and Aggregate Fluctuations.
 
 - Jonathan Heathcote, Kjetil Storesletten, and Giovanni L. Violante (2014). “[Consumption and Labor Supply with Partial Insurance: An Analytical Framework](https://pubs.aeaweb.org/doi/10.1257/aer.104.7.2075).” *American Economic Review* 104(7):2075–2126.
 
@@ -16,7 +16,7 @@
 - Atif Mian, Ludwig Straub, and Amir Sufi (2021). “[Indebted Demand](https://academic.oup.com/qje/article-abstract/136/4/2243/6164883).” *Quarterly Journal of Economics* 136(4):2243–2307.
 
 
-## Firms, Factor Shares, and Earnings Inequality
+## 2. Firms, Factor Shares, and Earnings Inequality
 
 - Jae Song, David J. Price, Fatih Guvenen, Nicholas Bloom, and Till von Wachter (2019). “[Firming Up Inequality](https://academic.oup.com/qje/article-abstract/134/1/1/5144785).” *Quarterly Journal of Economics* 134(1):1–50.
 
@@ -25,7 +25,7 @@
 - Sebastian Heise and Tommaso Porzio (2026). “[Labor Misallocation Across Firms and Regions](https://www.sebastianheise.com/).” NBER Working Paper 30298. Revise and resubmit at the *Review of Economic Studies*.
 
 
-## Labor-Market Frictions, Contracts, and Market Power
+## 3. Labor-Market Frictions, Contracts, and Market Power
 
 - Adrien Bilal, Niklas Engbom, Simon Mongey, and Giovanni L. Violante (2022). “[Firm and Worker Dynamics in a Frictional Labor Market](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA17955).” *Econometrica* 90(4):1425–1462.
 
@@ -36,7 +36,7 @@
 - Martin Souchier (2025). “[Insurance Inside and Outside the Firm](https://martinsouchier.github.io/website/draft_iio_martinsouchier.pdf).” Working paper.
 
 
-## Wealth, Job Mobility, and Labor Markets
+## 4. Wealth, Job Mobility, and Labor Markets
 
 - Morten O. Ravn and Vincent Sterk (2017). “[Job Uncertainty and Deep Recessions](https://www.sciencedirect.com/science/article/pii/S0304393217300806).” *Journal of Monetary Economics* 90:125–141.
 
@@ -47,7 +47,7 @@
 - Daniele Caratelli (2024). “[Labor Market Recoveries Across the Wealth Distribution](https://www.financialresearch.gov/staff-discussion-papers/2024/09/04/labor-market-recoveries-across-the-wealth-distribution/).” Office of Financial Research Staff Discussion Paper 24-01.
 
 
-## Inequality and Taxation
+## 5. Inequality and Taxation
 
 - Jonathan Heathcote, Kjetil Storesletten, and Gianluca Violante (2020). “[How Should Tax Progressivity Respond to Rising Income Inequality?](https://academic.oup.com/jeea/article-abstract/18/6/2715/5944123).” *Journal of the European Economic Association* 18(6):2715–2754.
 
@@ -55,7 +55,7 @@
 
 - Adrien Auclert, Michael Cai, Matthew Rognlie, and Ludwig Straub (2024). “[Optimal Long-Run Fiscal Policy with Heterogeneous Agents](https://www.michaelcai.com/files/rss_heterogeneity.pdf).” Working paper.
 
-## Policies and Stimulus in HANKs
+## 6. Policies and Stimulus in HANKs
 
 - Adrien Auclert, Bence Bardóczy, and Matthew Rognlie (2023). “[MPCs, MPEs, and Multipliers: A Trilemma for New Keynesian Models](https://doi.org/10.1162/rest_a_01072).” *Review of Economics and Statistics* 105(3):700–712.
 
@@ -72,7 +72,7 @@
 - Andreas Schaab and Stacy Yingqi Tan (2025). “[Monetary and Fiscal Policy According to HANK-IO](https://andreasschaab.com/wp-content/uploads/2023/04/schaab_tan_HANK_IO.pdf).” Working paper.
 
 
-## Fiscal deficits, Inflation, and Inequality
+## 7. Fiscal deficits, Inflation, and Inequality
 
 - George-Marios Angeletos, Chen Lian, and Christian K. Wolf (2024). “[Can Deficits Finance Themselves?](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA21791).” *Econometrica* 92(5):1351–1390.
 
@@ -81,7 +81,7 @@
 - Greg Kaplan, Georgios Nikolakoudis, and Giovanni L. Violante (2026). “[Price Level and Inflation Dynamics in Heterogeneous Agent Economies](https://www.nikolakoudis.com/HAFT_FEB2026.pdf).” Forthcoming in *Econometrica*.
 
 
-## Optimal Monetary Policy
+## 8. Optimal Monetary Policy
 
 - Sushant Acharya, Édouard Challe, and Keshav Dogra (2023). “[Optimal Monetary Policy According to HANK](https://www.aeaweb.org/articles?id=10.1257/aer.20200239).” *American Economic Review* 113(7):1741–1782.
 
@@ -95,7 +95,7 @@
 
 - João Guerreiro, David Baqaee, and Ariel Burstein (2026). “[Optimal Monetary Policy without Redistributive Concerns](https://jguerreiro.com/files/BBG_EfficiencyMandate.pdf).” Working paper.
 
-## Fiscal Policy, UI, Business Cycles
+## 9. Fiscal Policy, UI, Business Cycles
 
 - Dirk Krueger, Kurt Mitman, and Fabrizio Perri (2017). “[On the Distribution of the Welfare Losses of Large Recessions](https://www.cambridge.org/core/books/advances-in-economics-and-econometrics/FDB6155EC13435174E78098590083B84).” Chapter 6 in *Advances in Economics and Econometrics: Eleventh World Congress*, pp. 143–184.
 
@@ -110,7 +110,7 @@
 - François Le Grand and Xavier Ragot (2025). “[Optimal Fiscal Policy with Heterogeneous Agents and Capital: Should We Increase or Decrease Public Debt and Capital Taxes?](https://www.journals.uchicago.edu/doi/10.1086/734877).” *Journal of Political Economy* 133(7):2320–2369.
 
 
-## Policy with Non-Rational Expectations and Behavioral Frictions
+## 10. Policy with Non-Rational Expectations and Behavioral Frictions
 
 - Emmanuel Farhi and Iván Werning (2019). “[Monetary Policy, Bounded Rationality, and Incomplete Markets](https://www.aeaweb.org/articles?id=10.1257/aer.20171400).” *American Economic Review* 109(11):3887–3928.
 
@@ -125,7 +125,7 @@
 - Oliver Pfäuti and Fabian Seyrich (2026). “[A Behavioral Heterogeneous Agent New Keynesian Model](https://www.oliverpfaeuti.com/home).” EMPCT Working Paper 2026-01.
 
 
-## Open-economy HANKs
+## 11. Open-economy HANKs
 
 - Adrien Auclert, Matthew Rognlie, Martin Souchier, and Ludwig Straub (2024). “[Exchange Rates and Monetary Policy with Heterogeneous Agents: Sizing up the Real Income Channel](https://straub.scholars.harvard.edu/research).” NBER Working Paper 28872 / CEPR Discussion Paper 16198.
 
@@ -137,7 +137,7 @@
 
 
 
-## Housing, Mortgages, and Household Balance Sheets
+## 12. Housing, Mortgages, and Household Balance Sheets
 
 - Aaron Hedlund, Fatih Karahan, Kurt Mitman, and Serdar Özkan (2017). “[Monetary Policy, Heterogeneity, and the Housing Channel](https://aaronhedlund.github.io/research.html).” SED Meeting Paper 1610 / working paper.
 
@@ -148,7 +148,7 @@
 - Christian Bayer, Ralph Luetticke, Lien Pham-Dao, and Volker Tjaden (2019). “[Precautionary Savings, Illiquid Assets, and the Aggregate Consequences of Shocks to Household Income Risk](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA13601).” *Econometrica* 87(1):255–290.
 
 
-## Misallocation, Selection, and Aggregate Productivity
+## 13. Misallocation, Selection, and Aggregate Productivity
 
 - Pedro Bento and Diego Restuccia (2017). “[Misallocation, Establishment Size, and Productivity](https://pubs.aeaweb.org/doi/10.1257/mac.20150281).” *American Economic Journal: Macroeconomics* 9(3):267–303.
 
@@ -157,7 +157,7 @@
 - Tasso Adamopoulos, Loren Brandt, Jessica Leight, and Diego Restuccia (2022). “[Misallocation, Selection, and Productivity: A Quantitative Analysis With Panel Data From China](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA16598).” *Econometrica* 90(3):1261–1282.
 
 
-## Firm Dynamics, Growth, and the Size Distribution
+## 14. Firm Dynamics, Growth, and the Size Distribution
 
 - Geraud Desazars (2025). “[Capital Intensity and Firm Dynamics](https://sites.google.com/view/gerauddesazars/research).” Working paper.
 
@@ -169,7 +169,7 @@
 
 
 
-## Competition, Markups, and Industry Structure
+## 15. Competition, Markups, and Industry Structure
 
 - Émilien Gouin-Bonenfant (2022). “[Productivity Dispersion, Between-Firm Competition, and the Labor Share](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18612).” *Econometrica* 90(6):2755–2793.
 
@@ -184,7 +184,7 @@
 - Santiago Franco (2023). “[Output Market Power and Spatial Misallocation](https://www.santiago-franco.com/home).” U.S. Census Bureau CES Working Paper 23-57.
 
 
-## Financial Frictions, Investment, and Monetary Transmission
+## 16. Financial Frictions, Investment, and Monetary Transmission
 
 - Pablo Ottonello and Thomas Winberry (2020). “[Financial Heterogeneity and the Investment Channel of Monetary Policy](https://onlinelibrary.wiley.com/doi/10.3982/ECTA15949).” *Econometrica* 88(6):2473–2502.
 
