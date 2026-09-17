@@ -59,6 +59,8 @@
 
 - Adrien Auclert, Bence Bardóczy, and Matthew Rognlie (2023). “[MPCs, MPEs, and Multipliers: A Trilemma for New Keynesian Models](https://doi.org/10.1162/rest_a_01072).” *Review of Economics and Statistics* 105(3):700–712.
 
+- Axelle Ferrière and Gaston Navarro (2025). “[The Heterogeneous Effects of Government Spending: It’s All About Taxes](https://academic.oup.com/restud/article-abstract/92/2/1061/7638840).” *Review of Economic Studies* 92(2):1061–1125.
+
 - Lukas Nord (2026). “[Shopping, Demand Composition, and Equilibrium Prices](https://lukasnord.eu/).” Working paper, SSRN 4178271. Revise and resubmit at the *Review of Economic Studies*.
 
 - Jonathon Hazell, João Guerreiro, Diego R. Känzig, and Edward Manuel (2026). “[The Macroeconomic Effect of Stimulus Checks: Evidence from Postwar Veterans’ Payments](https://www.jhazell.co.uk/papers/Transfers.pdf).” CEPR Discussion Paper 21941. Submitted.
@@ -113,6 +115,8 @@
 - Emmanuel Farhi and Iván Werning (2019). “[Monetary Policy, Bounded Rationality, and Incomplete Markets](https://www.aeaweb.org/articles?id=10.1257/aer.20171400).” *American Economic Review* 109(11):3887–3928.
 
 - George-Marios Angeletos and Jennifer La’O (2020). “[Optimal Monetary Policy with Informational Frictions](https://www.journals.uchicago.edu/doi/10.1086/704758).” *Journal of Political Economy* 128(3):1027–1064.
+
+- Marco Bellifemine, Adrien Couturier, and Jacopo Tozzo (2025). “[The Sentiment Channel of Fiscal Policy](https://adriencouturier.com/JMP_Adrien_Couturier.pdf).” Job-market paper.
 
 - Adrien Auclert, Matthew Rognlie, and Ludwig Straub (2020). “[Micro Jumps, Macro Humps: Monetary Policy and Business Cycles in an Estimated HANK Model](https://mrognlie.github.io/research/).” NBER Working Paper 26647 / CEPR Discussion Paper 14279. Revise and resubmit at the *American Economic Review*.
 
@@ -169,11 +173,13 @@
 
 - Émilien Gouin-Bonenfant (2022). “[Productivity Dispersion, Between-Firm Competition, and the Labor Share](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18612).” *Econometrica* 90(6):2755–2793.
 
-- Jeremy Pearce and Liangjie Wu (2025). “[Market Concentration and Aggregate Productivity: The Role of Demand](https://www.jeremygpearce.com/research).” Federal Reserve Bank of New York Staff Report 1159.
-
 - Michael Peters (2020). “[Heterogeneous Markups, Growth, and Endogenous Misallocation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15565).” *Econometrica* 88(5):2037–2073.
 
+- Jeremy Pearce and Liangjie Wu (2025). “[Market Concentration and Aggregate Productivity: The Role of Demand](https://www.jeremygpearce.com/research).” Federal Reserve Bank of New York Staff Report 1159.
+
 - Filip Milosavljević (2025). “[Mergers and Acquisitions, Market Power, and Efficiency](https://milosavljevic-f.github.io/).” Job-market paper, Washington University in St. Louis.
+
+- Lucía Casal (2026). “[Lock-In and Productive Innovations: Implications for Firm-to-Firm Innovation Pass-Through](https://www.luciacasal.com/research/Casal_JMP.pdf).” Job-market paper.
 
 - Santiago Franco (2023). “[Output Market Power and Spatial Misallocation](https://www.santiago-franco.com/home).” U.S. Census Bureau CES Working Paper 23-57.
 
