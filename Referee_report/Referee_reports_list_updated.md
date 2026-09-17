@@ -13,8 +13,6 @@
 
 - Christian Bayer, Benjamin Born, and Ralph Luetticke (2024). “[Shocks, Frictions, and Inequality in US Business Cycles](https://www.aeaweb.org/articles?id=10.1257/aer.20201875).” *American Economic Review* 114(5):1211–1247.
 
-- Atif Mian, Ludwig Straub, and Amir Sufi (2026). “[The Saving Glut of the Rich](https://straub.scholars.harvard.edu/publications/saving-glut-rich-and-rise-household-debt).” NBER Working Paper 26941.
-
 - Atif Mian, Ludwig Straub, and Amir Sufi (2021). “[Indebted Demand](https://academic.oup.com/qje/article-abstract/136/4/2243/6164883).” *Quarterly Journal of Economics* 136(4):2243–2307.
 
 
@@ -72,7 +70,7 @@
 - Andreas Schaab and Stacy Yingqi Tan (2025). “[Monetary and Fiscal Policy According to HANK-IO](https://andreasschaab.com/wp-content/uploads/2023/04/schaab_tan_HANK_IO.pdf).” Working paper.
 
 
-## Fiscal deficits and the price level, andk
+## Fiscal deficits, Inflation, and Inequality
 
 - George-Marios Angeletos, Chen Lian, and Christian K. Wolf (2024). “[Can Deficits Finance Themselves?](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA21791).” *Econometrica* 92(5):1351–1390.
 
