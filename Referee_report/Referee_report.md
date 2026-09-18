@@ -1,4 +1,15 @@
-# Potential Papers for the Referee Report
+# Referee Report
+
+Write a referee report (3-4 pages) on one of the papers in the list below (for any other choice just ask me before December). 
+
+The purpose of a referee report is to recommend to an editor whether a paper is suitable for publication or not, potentially after revision. 
+
+Your report should summarize the working paper's primary contribution in two or three paragraph. Proceed to offer criticisms and suggestions. Make three or four main points, devoting a paragraph to each, that constitute advice for the authors (and insight for the editor). It's fine to be critical, but also offer realistic suggestions for improvement. 
+
+Given that the list of paper below includes relatively good papers (euphemism) for you to read, this specific report should be tilted positively compared to a random referee report.  A great part of your task is to summarize the paper, the key ideas and results and _where the article stands_ in the macro literature.
+
+You may find it interesting to read Berk, Harvey, and Hirshleifer's "[Preparing a Referee Report: Guidelines and Perspectives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2547191)", although many of the issues discussed therein are not crucial to writing a report solely for class purposes.
+
 
 
 ## 1. Household Risk, Wealth, and Aggregate Fluctuations.
@@ -44,7 +55,7 @@
 
 - Leo Kaas, Etienne Lalé, and Nawid Siassi (2026). “[Job Ladder and Wealth Dynamics in General Equilibrium](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22542).” *Econometrica* 94(4):1449–1485.
 
-- Daniele Caratelli (2024). “[Labor Market Recoveries Across the Wealth Distribution](https://www.financialresearch.gov/staff-discussion-papers/2024/09/04/labor-market-recoveries-across-the-wealth-distribution/).” Office of Financial Research Staff Discussion Paper 24-01.
+- Daniele Caratelli (2024). “[Labor Market Recoveries Across the Wealth Distribution](https://www.financialresearch.gov/staff-discussion-papers/2024/09/04/labor-market-recoveries-across-the-wealth-distribution/).” Working paper / job-market paper.
 
 
 ## 5. Inequality and Taxation
@@ -116,7 +127,7 @@
 
 - George-Marios Angeletos and Jennifer La’O (2020). “[Optimal Monetary Policy with Informational Frictions](https://www.journals.uchicago.edu/doi/10.1086/704758).” *Journal of Political Economy* 128(3):1027–1064.
 
-- Marco Bellifemine, Adrien Couturier, and Jacopo Tozzo (2025). “[The Sentiment Channel of Fiscal Policy](https://adriencouturier.com/JMP_Adrien_Couturier.pdf).” Job-market paper.
+- Marco Bellifemine, Adrien Couturier, and Jacopo Tozzo (2025). “[The Sentiment Channel of Fiscal Policy](https://adriencouturier.com/JMP_Adrien_Couturier.pdf).” Working paper / job-market paper.
 
 - Adrien Auclert, Matthew Rognlie, and Ludwig Straub (2020). “[Micro Jumps, Macro Humps: Monetary Policy and Business Cycles in an Estimated HANK Model](https://mrognlie.github.io/research/).” NBER Working Paper 26647 / CEPR Discussion Paper 14279. Revise and resubmit at the *American Economic Review*.
 
@@ -174,6 +185,8 @@
 - Émilien Gouin-Bonenfant (2022). “[Productivity Dispersion, Between-Firm Competition, and the Labor Share](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18612).” *Econometrica* 90(6):2755–2793.
 
 - Michael Peters (2020). “[Heterogeneous Markups, Growth, and Endogenous Misallocation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15565).” *Econometrica* 88(5):2037–2073.
+- 
+- Joel P. Flynn, George Nikolakoudis, and Karthik A. Sastry (2026). “[A Theory of Supply Function Choice and Aggregate Supply](https://www.aeaweb.org/doi/10.1257/aer.20240443).” *American Economic Review* 116(2):710–748.
 
 - Jeremy Pearce and Liangjie Wu (2025). “[Market Concentration and Aggregate Productivity: The Role of Demand](https://www.jeremygpearce.com/research).” Federal Reserve Bank of New York Staff Report 1159.
 
@@ -181,7 +194,7 @@
 
 - Lucía Casal (2026). “[Lock-In and Productive Innovations: Implications for Firm-to-Firm Innovation Pass-Through](https://www.luciacasal.com/research/Casal_JMP.pdf).” Job-market paper.
 
-- Santiago Franco (2023). “[Output Market Power and Spatial Misallocation](https://www.santiago-franco.com/home).” U.S. Census Bureau CES Working Paper 23-57.
+- Santiago Franco (2023). “[Output Market Power and Spatial Misallocation](https://www.santiago-franco.com/home).”  Job-market paper / U.S. Census Bureau CES Working Paper 23-57.
 
 
 ## 16. Financial Frictions, Investment, and Monetary Transmission
@@ -189,6 +202,8 @@
 - Pablo Ottonello and Thomas Winberry (2020). “[Financial Heterogeneity and the Investment Channel of Monetary Policy](https://onlinelibrary.wiley.com/doi/10.3982/ECTA15949).” *Econometrica* 88(6):2473–2502.
 
 - Priit Jeenas (2026). “[Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics](https://sites.google.com/site/priitjeenas/research).” Accepted at the *Journal of Political Economy*.
+
+- Andrea Lanteri and Fabio Bertolotti (2026). “[Capital Replacement and Innovation Dynamics](https://drive.google.com/file/d/1WN_9iKE1sxzuNSTz44UbDQEvFUSyNDWf/view?usp=drive_link).” Working paper. Revise and resubmit at the *Review of Economic Studies*.
 
 - Rüdiger Bachmann and Christian Bayer (2014). “[Investment Dispersion and the Business Cycle](https://www.aeaweb.org/articles?id=10.1257/aer.104.4.1392).” *American Economic Review* 104(4):1392–1416.
 

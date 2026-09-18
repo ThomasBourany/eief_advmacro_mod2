@@ -2,7 +2,7 @@
 ## Research project
 
 
-Set of tasks to get started on a research project. The goal is to develop an original idea that could inform a master's thesis or later research. By the end of the semester, the goal is to have a proposal: It must set out a well-motivated question and include either an empirical strategy with the required data, a theoretical model and derivation, or a quantitative model to simulate, together with preliminary results. 
+This homework includes a list (hopefully constructive and iterative) of tasks to get started on a research project. The end goal is to develop an original idea that could inform a master's thesis or later research. By the end of the semester, the goal is to have a proposal: It must set out a well-motivated question and include either an empirical strategy with the required data, a theoretical model and derivation, or a quantitative model to simulate, together with preliminary results. 
 
 For evaluation, and feedback (from the instructor as well as from your colleagues), create a shared document (it could be a google doc, a file available on a public github, or anything else). 
 
@@ -64,13 +64,13 @@ The **RAP framework** (Research, Answer, Positioning) is a structured approach u
 - Use the points below when reviewing/refininig your outline. These are questions for a finished paper and I provide them just for reference. 
 
 
-* **The Question**
+**The Question**
 - Is the topic clearly explained? Could the question be made more precise? 
 - Does the author do a good job of motivating the question in the introduction?
 - Is the answer to the question obvious in advance?
 - Is the question original? What is the contribution of the paper? Does the author pose a question of reasonable scope (i.e., can they reasonably hope to answer the question in a short empirical paper)? 
 
-* **The Model**
+**The Model**
 The model need not be a formal structural model of optimizing behavior, but if it is a reduced form model, there should at least be a clear verbal description of the economic theory that is behind its specification. 
 - Does the model formalize the argument given by the author in the question? 
 - Does the model incorporate those aspects of reality that the author seems to think are important?
@@ -79,18 +79,18 @@ The model need not be a formal structural model of optimizing behavior, but if i
 - Is the notation clean and intuitive? 
 - Is the model internally consistent? 
 
-* **Link to Empirical Analysis**
+**Link to Empirical Analysis**
 - Is the estimating equation clearly related to (or preferably derived from) the model? 
 - Does the disturbance term have an interpretation within the model, or is it just tacked on? 
 
-* **The Data**
+**The Data**
 - Does the author present a clear description of the data? 
 - Does the author's choice of a dataset seem well suited to answering the question he poses? 
 - If you had to replicate the author's study five years from now, is there sufficient information in the paper about the source of the data and sample used in estimation that you could do it?
 - Does the author discuss issues that may affect her estimation strategy: Is the data from a random sample? What are known sources of measurement error? If a panel, is there reason to believe that there may be cross-sectional dependence? 
 - Does the author present summary statistics, and make good use of them to motivate the question or some specific aspects of her analysis 
 
-* **The Econometric Analysis**
+**The Econometric Analysis**
 - Are the econometric techniques well suited to the problem at hand? 
 - What are the properties of the estimators employed by the author? Are the issues regarding these properties adequately addressed in the paper? 
 - Is the econometric analysis carefully done and reported? 
@@ -114,8 +114,7 @@ The model need not be a formal structural model of optimizing behavior, but if i
 - After conversation with advisors, reading more of the literature, review the report given by your colleagues and integrate the comments, try to expand more the proposal to around 4-5 pages.
 
 
-## Week 6:
-
+## Week _N_:
 
 **Tasks** _Due sometimes in January 1-2 weeks after the Final Exam of the class_ 
 - After conversation with advisors, reading more of the literature, expand the proposal to around 5-10 pages.
