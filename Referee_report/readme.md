@@ -178,6 +178,7 @@ You may find it interesting to read Berk, Harvey, and Hirshleifer's "[Preparing 
 
 - Giuseppe Berlingieri, Nir Jaimovich, Stephen J. Terry, and Nicolas Vincent (2025). “[The Empirical Distribution of Firm Dynamics and Its Macro Implications](https://public.websites.umich.edu/~sjterry/Shocks_Matter.pdf).” Working paper (earlier version: NBER Working Paper 31337). Revise and resubmit at the *American Economic Review*.
 
+- Rafael Guntin and Federico Kochen (2026). “[Financial Frictions and the Market for Firms](https://www.rguntin.com/research/GK_MarketForFirms.pdf).” Forthcoming in the *Review of Economic Studies*.
 
 
 ## 15. Competition, Markups, and Industry Structure
@@ -185,7 +186,7 @@ You may find it interesting to read Berk, Harvey, and Hirshleifer's "[Preparing 
 - Émilien Gouin-Bonenfant (2022). “[Productivity Dispersion, Between-Firm Competition, and the Labor Share](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18612).” *Econometrica* 90(6):2755–2793.
 
 - Michael Peters (2020). “[Heterogeneous Markups, Growth, and Endogenous Misallocation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15565).” *Econometrica* 88(5):2037–2073.
-- 
+
 - Joel P. Flynn, George Nikolakoudis, and Karthik A. Sastry (2026). “[A Theory of Supply Function Choice and Aggregate Supply](https://www.aeaweb.org/doi/10.1257/aer.20240443).” *American Economic Review* 116(2):710–748.
 
 - Jeremy Pearce and Liangjie Wu (2025). “[Market Concentration and Aggregate Productivity: The Role of Demand](https://www.jeremygpearce.com/research).” Federal Reserve Bank of New York Staff Report 1159.
@@ -205,8 +206,8 @@ You may find it interesting to read Berk, Harvey, and Hirshleifer's "[Preparing 
 
 - Andrea Lanteri and Fabio Bertolotti (2026). “[Capital Replacement and Innovation Dynamics](https://drive.google.com/file/d/1WN_9iKE1sxzuNSTz44UbDQEvFUSyNDWf/view?usp=drive_link).” Working paper. Revise and resubmit at the *Review of Economic Studies*.
 
+- Masao Fukui, Niels Joachim Gormsen, and Kilian Huber (2026). “[Sticky Discount Rates and Investment](https://kilianhuber.github.io/website/Sticky_Discount_Rates.pdf).” Working paper.
+
 - Rüdiger Bachmann and Christian Bayer (2014). “[Investment Dispersion and the Business Cycle](https://www.aeaweb.org/articles?id=10.1257/aer.104.4.1392).” *American Economic Review* 104(4):1392–1416.
 
 - Aleksei Oskolkov and Francesco Lippi (2026). “[Misallocation with Lumpy Investment](https://sites.google.com/view/francesco-lippi/research).” CEPR Discussion Paper 21212 / EIEF Working Paper 26/03.
-
-- Rafael Guntin and Federico Kochen (2026). “[Financial Frictions and the Market for Firms](https://www.rguntin.com/research/GK_MarketForFirms.pdf).” Forthcoming in the *Review of Economic Studies*.
