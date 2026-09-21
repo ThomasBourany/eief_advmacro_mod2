@@ -115,7 +115,7 @@ Lecture slides, readings, homework, and other course materials will be made avai
 
 ## Deadlines
 
-Unless otherwise noted, deadlines are in Rome time. Research-project tasks are due before the Monday lecture of the indicated week.
+Unless otherwise noted, deadlines are in Rome time. Research-project tasks are due before the Monday lecture of the indicated week. The In-class quizzes are at the beginning of the Wednesday class. 
 
 ### Week 0 — week of September 14
 
@@ -134,7 +134,7 @@ Unless otherwise noted, deadlines are in Rome time. Research-project tasks are d
 
 | Due | Item | What to submit or complete |
 |---|---|---|
-| Monday, November 16, 10:00 am | [Research project — Task 2](Research_project/) | For each selected paper, write a concise P→R→A: positioning statement, research question, and answer. Use this comparison to develop possible research ideas. |
+| Monday, November 16, 10:00 am | [Research project — Task 2](Research_project/) | For each selected paper, write a concise P→R→A: positioning statement, research question, and answer.|
 | Wednesday, November 18 | In class Quiz 2 | Material from the lectures from the week 1 and 2 | 
 
 ### Week 3 — week of November 23
@@ -142,7 +142,7 @@ Unless otherwise noted, deadlines are in Rome time. Research-project tasks are d
 | Due | Item | What to submit or complete |
 |---|---|---|
 | Monday, November 23, 10:00 am | [Research project — Task 3](Research_project/) | Write the ideal P→R→A for your own project and a brief (about half-page) outline of the methodology you would use to answer the question. |
-| Tuesday, November 24, 8:00 pm | [Homework 1: Transition dynamics in heterogeneous-agent models](Homework_1_Inequality/) | Submit the assignment on simulating a heterogeneous-agent model and distributional transition dynamics. |
+| Tuesday, November 24, 8:00 pm | [Homework 1: Transition dynamics in heterogeneous-agent models](Homework_1_Inequality/) | Submit the assignment on simulating heterogeneous-agent models and distributional dynamics. |
 | Wednesday, November 25 | In class Quiz 3 | Material from the lectures from the week 2 and 3 and homework 1. | 
 
 
@@ -158,7 +158,7 @@ Unless otherwise noted, deadlines are in Rome time. Research-project tasks are d
 | Due | Item | What to submit or complete |
 |---|---|---|
 | Monday, December 7 | [Research project — Task 5](Research_project/) | Review a colleague’s P→R→A and methodology outline, then submit constructive feedback in a 1–2 page referee-style report. |
-| Tuesday, December 8, 8:00 pm | [Homework 2: Heterogeneous firms](Homework_2_HetFirms/) | Submit the assignment on a firm-heterogeneity models. |
+| Tuesday, December 8, 8:00 pm | [Homework 2: Heterogeneous firms](Homework_2_HetFirms/) | Submit the assignment on heterogeneous firms models. |
 | Wednesday, December 9 | In class Quiz 5 | Material from the lectures from the week 4 and 5, and homework 2. | 
 
 ### Week 6 — week of December 14
@@ -178,6 +178,6 @@ Unless otherwise noted, deadlines are in Rome time. Research-project tasks are d
 
 | Due | Item | What to submit or complete |
 |---|---|---|
-| Wednesday, January 6, 2027, 8:00 pm | [Referee report](Referee_report/) | Submit a 3–4 page report on a paper from the designated list, summarizing its contribution and offering constructive, actionable comments. |
+| Wednesday, January 6, 2027, 8:00 pm | [Referee report](Referee_report/) | Submit a 3–4 page referee report on a paper from the designated list, with a summary/analysis of its contribution and constructive comments. |
 | TBC, January  | Final Exam | Full content of the class and the homeworks. |
 | 1–2 weeks after the final exam (date TBA) | [Research project — final expansion](Research_project/) | Incorporate additional feedback and literature, expanding the proposal into a 5–10 page research-project document. |
