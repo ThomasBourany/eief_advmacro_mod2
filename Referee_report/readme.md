@@ -10,6 +10,7 @@ Given that the list of paper below includes relatively good papers (euphemism) f
 
 You may find it interesting to read Berk, Harvey, and Hirshleifer's "[Preparing a Referee Report: Guidelines and Perspectives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2547191)", although many of the issues discussed therein are not crucial to writing a report solely for class purposes.
 
+This referee report is *due* on the *6th of January* (8:00 pm). 
 
 
 ## 1. Household Risk, Wealth, and Aggregate Fluctuations.

@@ -12,6 +12,8 @@ This course studies macroeconomic frameworks with heterogeneous agents and marke
 | **Term** | Fall 2026 |
 | **Programme** | RoME and RED |
 
+To get to know you better, please fill [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdjLK0sITIgqSm1rVTAFKzGOV15HE3dPRMG3QKmjwqLdx0IGg/viewform?usp=dialog) - so that we know your background and interests better. 
+
 ## Course goals
 
 By the end of the course, students should be able to:
@@ -110,3 +112,72 @@ Models and empirics of firm dynamics are covered more extensively in Bernardo Ri
 ## Course materials
 
 Lecture slides, readings, homework, and other course materials will be made available in this repository during the semester.
+
+## Deadlines
+
+Unless otherwise noted, deadlines are in Rome time. Research-project tasks are due before the Monday lecture of the indicated week.
+
+### Week 0 — week of September 14
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Monday, September 14, 10:00 am | [Homework 0: Onboarding](Homework_0/) | Complete the ungraded review assignment before the morning class. |
+
+### Week 1 — week of November 9
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Monday, November 9, 10:00 am | [Research project — Task 1](Research_project/) | Read at least two research-advice guides, identify a field and keywords, select 3–5 close reference papers in a shared document, and read their introductions carefully. |
+| Wednesday, November 11 | In class Quiz 1 | Material from the Homework 0, and the lectures from the week 1 | 
+
+### Week 2 — week of November 16
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Monday, November 16, 10:00 am | [Research project — Task 2](Research_project/) | For each selected paper, write a concise P→R→A: positioning statement, research question, and answer. Use this comparison to develop possible research ideas. |
+| Wednesday, November 18 | In class Quiz 2 | Material from the lectures from the week 1 and 2 | 
+
+### Week 3 — week of November 23
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Monday, November 23, 10:00 am | [Research project — Task 3](Research_project/) | Write the ideal P→R→A for your own project and a brief (about half-page) outline of the methodology you would use to answer the question. |
+| Tuesday, November 24, 8:00 pm | [Homework 1: Transition dynamics in heterogeneous-agent models](Homework_1_Inequality/) | Submit the assignment on simulating a heterogeneous-agent model and distributional transition dynamics. |
+| Wednesday, November 25 | In class Quiz 3 | Material from the lectures from the week 2 and 3 and homework 1. | 
+
+
+### Week 4 — week of November 30
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Monday, November 30, 10:00 am | [Research project — Task 4](Research_project/) | Refine the P→R→A and methodological outline after further reading and advisor discussions, developing a 2–3 page proposal. |
+| Wednesday, December 2 | In class Quiz 4 | Material from the lectures from the week 3 and 4. | 
+
+### Week 5 — week of December 7
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Monday, December 7 | [Research project — Task 5](Research_project/) | Review a colleague’s P→R→A and methodology outline, then submit constructive feedback in a 1–2 page referee-style report. |
+| Tuesday, December 8, 8:00 pm | [Homework 2: Heterogeneous firms](Homework_2_HetFirms/) | Submit the assignment on a firm-heterogeneity models. |
+| Wednesday, December 9 | In class Quiz 5 | Material from the lectures from the week 4 and 5, and homework 2. | 
+
+### Week 6 — week of December 14
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Monday, December 14 | [Research project — Task 6](Research_project/) | Use advisor discussions, further reading, and peer feedback to revise and expand the proposal to about 4–5 pages. |
+| Wednesday, December 16 | In class Quiz 6 | Material from the lectures from the week 5 and 6. | 
+
+### Week 7 — week of December 21
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Monday, December 21, 8:00 pm | [Homework 3: HANK policy analysis](Homework_3_HANK/) | Submit the assignment on monetary and fiscal policy in RANK and HANK models. |
+
+### After the course — January
+
+| Due | Item | What to submit or complete |
+|---|---|---|
+| Wednesday, January 6, 2027, 8:00 pm | [Referee report](Referee_report/) | Submit a 3–4 page report on a paper from the designated list, summarizing its contribution and offering constructive, actionable comments. |
+| TBC, January  | Final Exam | Full content of the class and the homeworks. |
+| 1–2 weeks after the final exam (date TBA) | [Research project — final expansion](Research_project/) | Incorporate additional feedback and literature, expanding the proposal into a 5–10 page research-project document. |
