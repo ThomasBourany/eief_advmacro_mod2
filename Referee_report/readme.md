@@ -17,7 +17,7 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Jonathan Heathcote, Kjetil Storesletten, and Giovanni L. Violante (2014). “[Consumption and Labor Supply with Partial Insurance: An Analytical Framework](https://pubs.aeaweb.org/doi/10.1257/aer.104.7.2075).” *American Economic Review* 104(7):2075–2126.
 
-- Fatih Guvenen, Serdar Özkan, and Jae Song (2014). “[The Nature of Countercyclical Income Risk](https://www.journals.uchicago.edu/doi/10.1086/675535).” *Journal of Political Economy* 122(3):621–660.
+- Fatih Guvenen, Fatih Karahan, Serdar Özkan, and Jae Song (2021). “[What Do Data on Millions of U.S. Workers Reveal About Life-Cycle Earnings Dynamics?](https://www.fatihguvenen.com/s/guvenen-karahan-ozkan-song-econometrica-2021.pdf).” *Econometrica* 89(5):2303–2339.
 
 - Riccardo A. Cioffi (2021). “[Heterogeneous Risk Exposure and the Dynamics of Wealth Inequality](https://www.rcioffi.com/research/).” Working paper / job-market paper.
 
@@ -33,6 +33,8 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 - Jae Song, David J. Price, Fatih Guvenen, Nicholas Bloom, and Till von Wachter (2019). “[Firming Up Inequality](https://academic.oup.com/qje/article-abstract/134/1/1/5144785).” *Quarterly Journal of Economics* 134(1):1–50.
 
 - Daniel L. Greenwald, Martin Lettau, and Sydney C. Ludvigson (2025). “[How the Wealth Was Won: Factor Shares as Market Fundamentals](https://www.journals.uchicago.edu/doi/10.1086/734089).” *Journal of Political Economy* 133(4):1083–1132.
+
+- Benjamin Moll, Lukasz Rachel, and Pascual Restrepo (2022). “[Uneven Growth: Automation’s Impact on Income and Wealth Inequality](https://onlinelibrary.wiley.com/doi/10.3982/ECTA19417).” *Econometrica* 90(6):2645–2683.
 
 - Sebastian Heise and Tommaso Porzio (2026). “[Labor Misallocation Across Firms and Regions](https://www.sebastianheise.com/).” NBER Working Paper 30298. Revise and resubmit at the *Review of Economic Studies*.
 
