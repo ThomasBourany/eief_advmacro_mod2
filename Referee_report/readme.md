@@ -205,6 +205,10 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Andrea Chiavari and Alexandre Kohlhas (2026). “[Mirrleesian Carbon Taxation](https://andreachiavariecon.github.io/pdfs/MCT_CK_2026_Final.pdf).” Working paper.
 
+- Jonathan Colmer, Ralf Martin, Mirabelle Muûls, and Ulrich J. Wagner (2025). “[Does Pricing Carbon Mitigate Climate Change? Firm-Level Evidence from the European Union Emissions Trading System](https://academic.oup.com/restud/article/92/3/1625/7681739).” *Review of Economic Studies* 92(3):1625–1660.
+
+- Damien Capelle, Eduardo Espuny Diaz, Divya Kirti, Germán Villegas-Bauer, and Sharan Banerjee (2025). “[Financial Constraints and the Effectiveness of Green Financial Policies](https://damiencapelle.com/wp-content/uploads/2026/01/Capelle-al-2025-Financial-constraints.pdf).” IMF Working Paper 2025/269.
+
 
 ## 16. Firm Dynamics, Growth, and the Size Distribution
 
