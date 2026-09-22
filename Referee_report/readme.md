@@ -1,19 +1,19 @@
 # Referee Report
 
-Write a referee report (3-4 pages) on one of the papers in the list below (for any other choice just ask me before December). 
+Write a referee report (3-4 pages) on one of the papers in the list below (for any other choice just ask me before December).
 
-The purpose of a referee report is to recommend to an editor whether a paper is suitable for publication or not, potentially after revision. 
+The purpose of a referee report is to recommend to an editor whether a paper is suitable for publication or not, potentially after revision.
 
-Your report should summarize the working paper's primary contribution in two or three paragraph. Proceed to offer criticisms and suggestions. Make three or four main points, devoting a paragraph to each, that constitute advice for the authors (and insight for the editor). It's fine to be critical, but also offer realistic suggestions for improvement. 
+Your report should summarize the working paper's primary contribution in two or three paragraph. Proceed to offer criticisms and suggestions. Make three or four main points, devoting a paragraph to each, that constitute advice for the authors (and insight for the editor). It's fine to be critical, but also offer realistic suggestions for improvement.
 
-Given that the list of paper below includes relatively good papers (euphemism) for you to read, this specific report should be tilted positively compared to a random referee report.  A great part of your task is to summarize the paper, the key ideas and results and _where the article stands_ in the macro literature.
+Given that the list of paper below includes relatively good papers (euphemism) for you to read, this specific report should be tilted positively compared to a random referee report. A great part of your task is to summarize the paper, the key ideas and results and _where the article stands_ in the macro literature.
 
 You may find it interesting to read Berk, Harvey, and Hirshleifer's "[Preparing a Referee Report: Guidelines and Perspectives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2547191)", although many of the issues discussed therein are not crucial to writing a report solely for class purposes.
 
-This referee report is *due* on the *6th of January* (8:00 pm). 
+This referee report is *due* on the *6th of January* (8:00 pm).
 
 
-## 1. Household Risk, Wealth, and Aggregate Fluctuations.
+## 1. Household Risk, Wealth, and Aggregate Fluctuations
 
 - Jonathan Heathcote, Kjetil Storesletten, and Giovanni L. Violante (2014). “[Consumption and Labor Supply with Partial Insurance: An Analytical Framework](https://pubs.aeaweb.org/doi/10.1257/aer.104.7.2075).” *American Economic Review* 104(7):2075–2126.
 
@@ -56,11 +56,11 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Morten O. Ravn and Vincent Sterk (2017). “[Job Uncertainty and Deep Recessions](https://www.sciencedirect.com/science/article/pii/S0304393217300806).” *Journal of Monetary Economics* 90:125–141.
 
-- Elena Pellegrini (2025). “[Wealth Inequality and Labor Mobility: The Job Trap](https://elenapellegrini.github.io/JMP.pdf).” Working paper / job-market paper.
+- Elena Pellegrini (2025). “[Wealth Inequality and Labor Mobility: The Job Trap](https://elenapellegrini.github.io/JMP.pdf).” Working paper / Job-Market Paper.
 
 - Leo Kaas, Etienne Lalé, and Nawid Siassi (2026). “[Job Ladder and Wealth Dynamics in General Equilibrium](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22542).” *Econometrica* 94(4):1449–1485.
 
-- Daniele Caratelli (2024). “[Labor Market Recoveries Across the Wealth Distribution](https://www.financialresearch.gov/staff-discussion-papers/2024/09/04/labor-market-recoveries-across-the-wealth-distribution/).” Working paper / job-market paper.
+- Daniele Caratelli (2024). “[Labor Market Recoveries Across the Wealth Distribution](https://www.financialresearch.gov/staff-discussion-papers/2024/09/04/labor-market-recoveries-across-the-wealth-distribution/).” Working paper / Job-Market Paper.
 
 
 ## 5. Inequality and Taxation
@@ -88,7 +88,7 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 - Andreas Schaab and Stacy Yingqi Tan (2025). “[Monetary and Fiscal Policy According to HANK-IO](https://andreasschaab.com/wp-content/uploads/2023/04/schaab_tan_HANK_IO.pdf).” Working paper.
 
 
-## 7. Fiscal deficits, Inflation, and Inequality
+## 7. Fiscal Deficits, Inflation, and Inequality
 
 - George-Marios Angeletos, Chen Lian, and Christian K. Wolf (2024). “[Can Deficits Finance Themselves?](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA21791).” *Econometrica* 92(5):1351–1390.
 
@@ -97,6 +97,7 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 - Greg Kaplan, Georgios Nikolakoudis, and Giovanni L. Violante (2026). “[Price Level and Inflation Dynamics in Heterogeneous Agent Economies](https://www.nikolakoudis.com/HAFT_FEB2026.pdf).” Forthcoming in *Econometrica*.
 
 - Francesco Bianchi, Nicolò Ceneri, Leonardo Melosi, and Alessandro T. Villa (2026). “[Fiscal Policy and the Saving Glut of the Rich](https://sites.google.com/view/francescobianchi/home/working-papers).” NBER Working Paper 35715.
+
 
 ## 8. Optimal Monetary Policy
 
@@ -133,7 +134,7 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - George-Marios Angeletos and Jennifer La’O (2020). “[Optimal Monetary Policy with Informational Frictions](https://www.journals.uchicago.edu/doi/10.1086/704758).” *Journal of Political Economy* 128(3):1027–1064.
 
-- Marco Bellifemine, Adrien Couturier, and Jacopo Tozzo (2025). “[The Sentiment Channel of Fiscal Policy](https://adriencouturier.com/JMP_Adrien_Couturier.pdf).” Working paper / job-market paper.
+- Marco Bellifemine, Adrien Couturier, and Jacopo Tozzo (2025). “[The Sentiment Channel of Fiscal Policy](https://adriencouturier.com/JMP_Adrien_Couturier.pdf).” Working paper / Job-Market Paper.
 
 - Adrien Auclert, Matthew Rognlie, and Ludwig Straub (2020). “[Micro Jumps, Macro Humps: Monetary Policy and Business Cycles in an Estimated HANK Model](https://mrognlie.github.io/research/).” NBER Working Paper 26647 / CEPR Discussion Paper 14279. Revise and resubmit at the *American Economic Review*.
 
@@ -142,7 +143,7 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 - Oliver Pfäuti and Fabian Seyrich (2026). “[A Behavioral Heterogeneous Agent New Keynesian Model](https://www.oliverpfaeuti.com/home).” EMPCT Working Paper 2026-01.
 
 
-## 11. Open-economy HANKs
+## 11. Open-Economy HANKs
 
 - Adrien Auclert, Matthew Rognlie, Martin Souchier, and Ludwig Straub (2024). “[Exchange Rates and Monetary Policy with Heterogeneous Agents: Sizing up the Real Income Channel](https://straub.scholars.harvard.edu/research).” NBER Working Paper 28872 / CEPR Discussion Paper 16198.
 
@@ -175,7 +176,7 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Tasso Adamopoulos, Loren Brandt, Jessica Leight, and Diego Restuccia (2022). “[Misallocation, Selection, and Productivity: A Quantitative Analysis With Panel Data From China](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA16598).” *Econometrica* 90(3):1261–1282.
 
-- Santiago Franco (2023). “[Output Market Power and Spatial Misallocation](https://www.santiago-franco.com/home).”  Job-market paper / U.S. Census Bureau CES Working Paper 23-57.
+- Santiago Franco (2023). “[Output Market Power and Spatial Misallocation](https://www.santiago-franco.com/home).” Job-Market Paper / U.S. Census Bureau CES Working Paper 23-57.
 
 - Sebastian Heise and Tommaso Porzio (2026). “[Labor Misallocation Across Firms and Regions](https://www.sebastianheise.com/).” NBER Working Paper 30298. Revise and resubmit at the *Review of Economic Studies*.
 
@@ -187,9 +188,9 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Jeremy Pearce and Liangjie Wu (2025). “[Market Concentration and Aggregate Productivity: The Role of Demand](https://www.jeremygpearce.com/research).” Federal Reserve Bank of New York Staff Report 1159.
 
-- Filip Milosavljević (2025). “[Mergers and Acquisitions, Market Power, and Efficiency](https://milosavljevic-f.github.io/).” Job-market paper, Washington University in St. Louis.
+- Filip Milosavljević (2025). “[Mergers and Acquisitions, Market Power, and Efficiency](https://milosavljevic-f.github.io/).” Job-Market Paper, Washington University in St. Louis.
 
-- Lucía Casal (2026). “[Lock-In and Productive Innovations: Implications for Firm-to-Firm Innovation Pass-Through](https://www.luciacasal.com/research/Casal_JMP.pdf).” Job-market paper.
+- Lucía Casal (2026). “[Lock-In and Productive Innovations: Implications for Firm-to-Firm Innovation Pass-Through](https://www.luciacasal.com/research/Casal_JMP.pdf).” Job-Market Paper.
 
 - Loukas Karabarbounis, Bruno Pellegrino, and Juliana Salomao (2026). “[A Model of Global Firms and Capital Markets](https://sites.google.com/site/loukaskarabarbounis/research).” NBER Working Paper 35652.
 
@@ -198,9 +199,9 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Kathryn McDonald, Noémie Pinardon-Touati, and Conor Walsh (2026). “[Growth, Firm Scale, and the Energy Intensity of Production](https://npinardontouati.github.io/files/mcdonald_pinardon-touati_walsh_live.pdf).” NBER Working Paper 35405.
 
-- Emmanuel Murray-Leclair (2024). “[Balancing Production and Carbon Emissions with Fuel Substitution](https://emmanuelmurrayleclair.github.io/JMP/Paper/JMP_emurrayl.pdf).” Job-market paper.
+- Emmanuel Murray-Leclair (2024). “[Balancing Production and Carbon Emissions with Fuel Substitution](https://emmanuelmurrayleclair.github.io/JMP/Paper/JMP_emurrayl.pdf).” Job-Market Paper.
 
-- Felix Samy Soliman (2025). “[Capital Replacement and the Demand for Clean Technology](https://fsamysoliman.github.io/JMP_FSS.pdf).” Job-market paper.
+- Felix Samy Soliman (2025). “[Capital Replacement and the Demand for Clean Technology](https://fsamysoliman.github.io/JMP_FSS.pdf).” Job-Market Paper.
 
 - Andrea Chiavari and Alexandre Kohlhas (2026). “[Mirrleesian Carbon Taxation](https://andreachiavariecon.github.io/pdfs/MCT_CK_2026_Final.pdf).” Working paper.
 
