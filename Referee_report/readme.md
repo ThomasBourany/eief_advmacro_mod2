@@ -19,7 +19,9 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Fatih Guvenen, Fatih Karahan, Serdar Özkan, and Jae Song (2021). “[What Do Data on Millions of U.S. Workers Reveal About Life-Cycle Earnings Dynamics?](https://www.fatihguvenen.com/s/guvenen-karahan-ozkan-song-econometrica-2021.pdf).” *Econometrica* 89(5):2303–2339.
 
-- Riccardo A. Cioffi (2021). “[Heterogeneous Risk Exposure and the Dynamics of Wealth Inequality](https://www.rcioffi.com/research/).” Working paper / job-market paper.
+- J. Carter Braxton, Kyle F. Herkenhoff, Chengdai Huang, Michael Nattinger, Jonathan L. Rothbaum, and Lawrence D. W. Schmidt (2026). “[Rising Income Risk at the Top](https://lawrencedwschmidt.com/research/rising-risk-at-the-top/).” NBER Working Paper 35664.
+
+- Riccardo A. Cioffi (2021). “[Heterogeneous Risk Exposure and the Dynamics of Wealth Inequality](https://www.rcioffi.com/research/).” Working paper / Job-Market Paper.
 
 - Andreas Fagereng, Luigi Guiso, and Luigi Pistaferri (2018). “[Portfolio Choices, Firm Shocks, and Uninsurable Wage Risk](https://academic.oup.com/restud/article-abstract/85/1/437/3108824).” *Review of Economic Studies* 85(1):437–474.
 
@@ -36,7 +38,7 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Benjamin Moll, Lukasz Rachel, and Pascual Restrepo (2022). “[Uneven Growth: Automation’s Impact on Income and Wealth Inequality](https://onlinelibrary.wiley.com/doi/10.3982/ECTA19417).” *Econometrica* 90(6):2645–2683.
 
-- Sebastian Heise and Tommaso Porzio (2026). “[Labor Misallocation Across Firms and Regions](https://www.sebastianheise.com/).” NBER Working Paper 30298. Revise and resubmit at the *Review of Economic Studies*.
+- Brice C. Green, Leonid Kogan, Dimitris Papanikolaou, and Lawrence D. W. Schmidt (2026). “[Winners and Losers: Competition, Creative Destruction, and Labor Income Risk](https://lawrencedwschmidt.com/research/competition-creative-destruction-and-labor-income-risk/).” NBER Working Paper 35542.
 
 
 ## 3. Labor-Market Frictions, Contracts, and Market Power
@@ -94,6 +96,7 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Greg Kaplan, Georgios Nikolakoudis, and Giovanni L. Violante (2026). “[Price Level and Inflation Dynamics in Heterogeneous Agent Economies](https://www.nikolakoudis.com/HAFT_FEB2026.pdf).” Forthcoming in *Econometrica*.
 
+- Francesco Bianchi, Nicolò Ceneri, Leonardo Melosi, and Alessandro T. Villa (2026). “[Fiscal Policy and the Saving Glut of the Rich](https://sites.google.com/view/francescobianchi/home/working-papers).” NBER Working Paper 35715.
 
 ## 8. Optimal Monetary Policy
 
@@ -166,29 +169,19 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Pedro Bento and Diego Restuccia (2017). “[Misallocation, Establishment Size, and Productivity](https://pubs.aeaweb.org/doi/10.1257/mac.20150281).” *American Economic Journal: Macroeconomics* 9(3):267–303.
 
+- Michael Peters (2020). “[Heterogeneous Markups, Growth, and Endogenous Misallocation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15565).” *Econometrica* 88(5):2037–2073.
+
 - Marcela Eslava, John Haltiwanger, and Nicolas Urdaneta (2024). “[The Size and Life-Cycle Growth of Plants: The Role of Productivity, Demand, and Wedges](https://academic.oup.com/restud/article-abstract/91/1/259/7054272).” *Review of Economic Studies* 91(1):259–300.
 
 - Tasso Adamopoulos, Loren Brandt, Jessica Leight, and Diego Restuccia (2022). “[Misallocation, Selection, and Productivity: A Quantitative Analysis With Panel Data From China](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA16598).” *Econometrica* 90(3):1261–1282.
 
+- Santiago Franco (2023). “[Output Market Power and Spatial Misallocation](https://www.santiago-franco.com/home).”  Job-market paper / U.S. Census Bureau CES Working Paper 23-57.
 
-## 14. Firm Dynamics, Growth, and the Size Distribution
+- Sebastian Heise and Tommaso Porzio (2026). “[Labor Misallocation Across Firms and Regions](https://www.sebastianheise.com/).” NBER Working Paper 30298. Revise and resubmit at the *Review of Economic Studies*.
 
-- Geraud Desazars (2025). “[Capital Intensity and Firm Dynamics](https://sites.google.com/view/gerauddesazars/research).” Working paper.
-
-- Zhang Chen (2026). “[Economic Growth and the Rise of Large Firms](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22110).” *Econometrica* 94(4):1375–1408.
-
-- Vincent Sterk, Petr Sedláček, and Benjamin Pugsley (2021). “[The Nature of Firm Growth](https://www.aeaweb.org/articles?id=10.1257/aer.20190748).” *American Economic Review* 111(2):547–579.
-
-- Giuseppe Berlingieri, Nir Jaimovich, Stephen J. Terry, and Nicolas Vincent (2025). “[The Empirical Distribution of Firm Dynamics and Its Macro Implications](https://public.websites.umich.edu/~sjterry/Shocks_Matter.pdf).” Working paper (earlier version: NBER Working Paper 31337). Revise and resubmit at the *American Economic Review*.
-
-- Rafael Guntin and Federico Kochen (2026). “[Financial Frictions and the Market for Firms](https://www.rguntin.com/research/GK_MarketForFirms.pdf).” Forthcoming in the *Review of Economic Studies*.
-
-
-## 15. Competition, Markups, and Industry Structure
+## 14. Competition, Markups, and Industry Structure
 
 - Émilien Gouin-Bonenfant (2022). “[Productivity Dispersion, Between-Firm Competition, and the Labor Share](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18612).” *Econometrica* 90(6):2755–2793.
-
-- Michael Peters (2020). “[Heterogeneous Markups, Growth, and Endogenous Misallocation](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15565).” *Econometrica* 88(5):2037–2073.
 
 - Joel P. Flynn, George Nikolakoudis, and Karthik A. Sastry (2026). “[A Theory of Supply Function Choice and Aggregate Supply](https://www.aeaweb.org/doi/10.1257/aer.20240443).” *American Economic Review* 116(2):710–748.
 
@@ -198,19 +191,50 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Lucía Casal (2026). “[Lock-In and Productive Innovations: Implications for Firm-to-Firm Innovation Pass-Through](https://www.luciacasal.com/research/Casal_JMP.pdf).” Job-market paper.
 
-- Santiago Franco (2023). “[Output Market Power and Spatial Misallocation](https://www.santiago-franco.com/home).”  Job-market paper / U.S. Census Bureau CES Working Paper 23-57.
+- Loukas Karabarbounis, Bruno Pellegrino, and Juliana Salomao (2026). “[A Model of Global Firms and Capital Markets](https://sites.google.com/site/loukaskarabarbounis/research).” NBER Working Paper 35652.
 
 
-## 16. Financial Frictions, Investment, and Monetary Transmission
+## 15. Firm Dynamics, Energy, and Climate Policy
+
+- Kathryn McDonald, Noémie Pinardon-Touati, and Conor Walsh (2026). “[Growth, Firm Scale, and the Energy Intensity of Production](https://npinardontouati.github.io/files/mcdonald_pinardon-touati_walsh_live.pdf).” NBER Working Paper 35405.
+
+- Emmanuel Murray-Leclair (2024). “[Balancing Production and Carbon Emissions with Fuel Substitution](https://emmanuelmurrayleclair.github.io/JMP/Paper/JMP_emurrayl.pdf).” Job-market paper.
+
+- Felix Samy Soliman (2025). “[Capital Replacement and the Demand for Clean Technology](https://fsamysoliman.github.io/JMP_FSS.pdf).” Job-market paper.
+
+- Andrea Chiavari and Alexandre Kohlhas (2026). “[Mirrleesian Carbon Taxation](https://andreachiavariecon.github.io/pdfs/MCT_CK_2026_Final.pdf).” Working paper.
+
+
+## 16. Firm Dynamics, Growth, and the Size Distribution
+
+- Geraud Desazars (2025). “[Capital Intensity and Firm Dynamics](https://sites.google.com/view/gerauddesazars/research).” Working paper.
+
+- Zhang Chen (2026). “[Economic Growth and the Rise of Large Firms](https://onlinelibrary.wiley.com/doi/10.3982/ECTA22110).” *Econometrica* 94(4):1375–1408.
+
+- Vincent Sterk, Petr Sedláček, and Benjamin Pugsley (2021). “[The Nature of Firm Growth](https://www.aeaweb.org/articles?id=10.1257/aer.20190748).” *American Economic Review* 111(2):547–579.
+
+- Giuseppe Berlingieri, Nir Jaimovich, Stephen J. Terry, and Nicolas Vincent (2025). “[The Empirical Distribution of Firm Dynamics and Its Macro Implications](https://public.websites.umich.edu/~sjterry/Shocks_Matter.pdf).” Working paper (earlier version: NBER Working Paper 31337). Revise and resubmit at the *American Economic Review*.
+
+
+## 17. Financial Frictions, Firm Dynamics, and Monetary Transmission
 
 - Pablo Ottonello and Thomas Winberry (2020). “[Financial Heterogeneity and the Investment Channel of Monetary Policy](https://onlinelibrary.wiley.com/doi/10.3982/ECTA15949).” *Econometrica* 88(6):2473–2502.
 
 - Priit Jeenas (2026). “[Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics](https://sites.google.com/site/priitjeenas/research).” Accepted at the *Journal of Political Economy*.
 
+- Rafael Guntin and Federico Kochen (2026). “[Financial Frictions and the Market for Firms](https://www.rguntin.com/research/GK_MarketForFirms.pdf).” Forthcoming in the *Review of Economic Studies*.
+
+- Timothy J. Besley, Peter John Lambert, Isabelle A. Michalski-Roland, and John Van Reenen (2026). “[The Equilibrium Impact of Credit Frictions: Evidence from Default Risk Using Firm-Level Data](https://poid-serviceaddress.lse.ac.uk/PUBLICATIONS/abstract.asp?index=12467).” NBER Working Paper 35552.
+
+- Gideon Bornstein and Laura Castillo-Martinez (2026). “[Firm Exit and Financial Frictions](https://gideon-bornstein.com/).” NBER Working Paper 35479.
+
+
+## 18. Firm Investment and Capital Dynamics
+
+- Rüdiger Bachmann and Christian Bayer (2014). “[Investment Dispersion and the Business Cycle](https://www.aeaweb.org/articles?id=10.1257/aer.104.4.1392).” *American Economic Review* 104(4):1392–1416.
+
 - Andrea Lanteri and Fabio Bertolotti (2026). “[Capital Replacement and Innovation Dynamics](https://drive.google.com/file/d/1WN_9iKE1sxzuNSTz44UbDQEvFUSyNDWf/view?usp=drive_link).” Working paper. Revise and resubmit at the *Review of Economic Studies*.
 
 - Masao Fukui, Niels Joachim Gormsen, and Kilian Huber (2026). “[Sticky Discount Rates and Investment](https://kilianhuber.github.io/website/Sticky_Discount_Rates.pdf).” Working paper.
-
-- Rüdiger Bachmann and Christian Bayer (2014). “[Investment Dispersion and the Business Cycle](https://www.aeaweb.org/articles?id=10.1257/aer.104.4.1392).” *American Economic Review* 104(4):1392–1416.
 
 - Aleksei Oskolkov and Francesco Lippi (2026). “[Misallocation with Lumpy Investment](https://sites.google.com/view/francesco-lippi/research).” CEPR Discussion Paper 21212 / EIEF Working Paper 26/03.
