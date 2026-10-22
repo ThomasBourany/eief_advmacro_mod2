@@ -243,3 +243,5 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 - Masao Fukui, Niels Joachim Gormsen, and Kilian Huber (2026). “[Sticky Discount Rates and Investment](https://kilianhuber.github.io/website/Sticky_Discount_Rates.pdf).” Working paper.
 
 - Aleksei Oskolkov and Francesco Lippi (2026). “[Misallocation with Lumpy Investment](https://sites.google.com/view/francesco-lippi/research).” CEPR Discussion Paper 21212 / EIEF Working Paper 26/03.
+
+- Thomas Drechsel, Daniel Lewis, Davide Melcangi, and Laura Pilossoph (2026). “[The Investment Channel of Monetary Policy: Disentangling Firm Heterogeneity](https://thomas-drechsel.com/research.html).” Working paper.

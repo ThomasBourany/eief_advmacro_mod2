@@ -59,7 +59,7 @@ Survey and review articles are strongly encouraged, especially for students prep
 
 ## Course outline
 
-### Theme 1 - Week 1
+### Theme 1 - Week 0 (For year 2027)
 
 #### Introduction: heterogeneity, market failures, and frictions
 
@@ -69,7 +69,18 @@ Survey and review articles are strongly encouraged, especially for students prep
 - Wedges, shocks, and business cycles.
 - If time permits: the scope for fiscal, monetary, industrial, climate, development, and trade policy. Suggested industrial-policy readings include Juhasz, Lane, and Rodrik, *The New Economics of Industrial Policy*, and Bartelme, Costinot, Donaldson, and Rodriguez-Clare, *The Textbook Case for Industrial Policy*.
 
-### Theme 2 - Week 2
+
+### Theme 1 - Week 1 and 2 (For year 2026)
+
+#### Business cycle models and frictions
+
+- Real Business Cycles and Wedges, shocks, and business cycles -- [Chari, Kehoe, McGrattan 2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2007.00768.x)
+- New Keynesian Models -- Woodford, Gali + Blanchard Kiyotaki
+- Stabilization policy, divine coincidence, and monetary and fiscal policies in NK models 
+- Around the NK models: (i) determinacy of equilibria and Taylor Principle (see Cochrane), (ii) Sticky Price vs. Sticky Information (see Mankiw-Reis), (iii) Forward Guidance Puzzle
+
+
+### Theme 2 - Week 2 and 3
 
 #### Heterogeneous-agent models and aggregate dynamics
 
@@ -82,7 +93,7 @@ Survey and review articles are strongly encouraged, especially for students prep
 
 Computational methods for heterogeneous-agent models with and without aggregate risk are covered more extensively in Sara Casella's course.
 
-### Theme 3 - Weeks 3 and 4
+### Theme 3 - Weeks 4
 
 #### Firm heterogeneity and frictions: misallocation and market power
 
@@ -96,7 +107,7 @@ Computational methods for heterogeneous-agent models with and without aggregate 
 
 Models and empirics of firm dynamics are covered more extensively in Bernardo Ribeiro's course.
 
-### Theme 4 - Weeks 4 to 6
+### Theme 4 - Weeks 5 to 6
 
 #### Household heterogeneity, nominal rigidities, and HANK policy analysis
 
