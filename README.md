@@ -14,15 +14,23 @@ This course studies macroeconomic frameworks with heterogeneous agents and marke
 
 To get to know you better, please fill [this survey](https://docs.google.com/forms/d/e/1FAIpQLSdjLK0sITIgqSm1rVTAFKzGOV15HE3dPRMG3QKmjwqLdx0IGg/viewform?usp=dialog) - so that we know your background and interests better. 
 
+## Course schedule - 6 weeks - November 9 ,
+
+Mondays, Tuesdays, Wednesday 11:00-12:30 
+
+Exceptions:
+- First 3 sessions November 9, 10, 11: on zoom (exceptional!)
+- December 9: 14:45 instead of 11:00
+
 ## Course goals
 
 By the end of the course, students should be able to:
 
-- work with an important class of heterogeneous-agent macroeconomic models;
-- solve these models numerically and use them in quantitative research; and
+- work with an important class of business cycles and heterogeneous-agent macroeconomic models;
+- solve these models numerically, calibrate/estimate them on real data, and use them in quantitative research
 - engage critically with frontier macroeconomic research.
 
-The course begins with heterogeneity, welfare, and the case for policy; introduces methods for heterogeneous-agent models with aggregate shocks; studies firm heterogeneity and frictions; and then focuses on HANK (Heterogeneous-Agent New Keynesian) models and their implications for monetary and fiscal policy.
+The course begins with business cycle models such as the RBC and New Keynesian models ; introduces methods for heterogeneous-agent models ; studies firm heterogeneity and frictions; and then focuses on HANK (Heterogeneous-Agent New Keynesian) models and their implications for monetary and fiscal policy.
 
 ## Readings and preparation
 
@@ -49,35 +57,25 @@ Survey and review articles are strongly encouraged, especially for students prep
 
 ### Coursework and submission
 
-- **Participation.** Prepare the assigned readings and participate actively in class, including Friday assignment-review sessions.
-- **Quizzes.** Short in-class quizzes cover lectures, previous homework, and required readings.
+- **Participation.** Prepare the assigned readings and participate actively in class, including Wednesday assignment-review sessions.
+- **Quizzes.** Short in-class quizzes cover lectures, previous homeworks, and required readings.
 - **Problem sets and coding exercises.** Students may work alone or in pairs; pairs must identify both authors. Familiarity with a statistical package or programming language such as Matlab, Julia, or Python is expected. LLMs may be used as an aid, but students must remain responsible for the work and must not delegate the assignment to an AI tool.
-- **Submission.** Email an individual copy of each problem set with the subject line `Macro Problem Set [#] [your name]`. Late submissions receive a penalty. For a LaTeX-generated submission, include both the PDF and `.tex` source. Paper submissions may be handed in at the instructor's desk on the third floor of the EIEF main building.
+- **Submission.** Email an individual copy of each problem set with the subject line `Adv Macro Problem Set [#] [your name]`. Late submissions receive a penalty. For a LaTeX-generated submission, include both the PDF and `.tex` source. Paper submissions may be handed in at the instructor's desk on the third floor of the EIEF main building.
 - **Research project.** Develop an original idea that could inform a master's thesis or later research. It must set out a well-motivated question and include either an empirical strategy with the required data, a theoretical model and derivation, or a quantitative model to simulate, together with preliminary results.
 - **Referee report.** Write a report on an article from a designated list. The report should explain the paper's main contribution and provide constructive criticism and suggestions. Choosing a paper related to the research project is encouraged.
 - **Final exam.** The exam is individual and closed-book.
 
 ## Course outline
 
-### Theme 1 - Week 0 (For year 2027)
 
-#### Introduction: heterogeneity, market failures, and frictions
-
-- General-equilibrium theory: welfare theorems, the Negishi theorem, market failures, and efficiency.
-- Heterogeneity and aggregation.
-- Welfare decomposition: efficiency, redistribution, and insurance. One required reading: \* [Bhandari, Evans, Golosov, and Sargent (2026)](https://www.nber.org/papers/w34907); or [Dávila and Schaab (2025)](https://www.journals.uchicago.edu/doi/10.1086/736211).
-- Wedges, shocks, and business cycles.
-- If time permits: the scope for fiscal, monetary, industrial, climate, development, and trade policy. Suggested industrial-policy readings include Juhasz, Lane, and Rodrik, *The New Economics of Industrial Policy*, and Bartelme, Costinot, Donaldson, and Rodriguez-Clare, *The Textbook Case for Industrial Policy*.
-
-
-### Theme 1 - Week 1 and 2 (For year 2026)
+### Theme 1 - Week 1 and 2
 
 #### Business cycle models and frictions
 
-- Real Business Cycles and Wedges, shocks, and business cycles -- [Chari, Kehoe, McGrattan 2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2007.00768.x)
+- Real Business Cycles: Wedges, shocks, solution methods, and business cycles accounting -- [Chari, Kehoe, McGrattan 2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2007.00768.x)
 - New Keynesian Models -- Woodford, Gali + Blanchard Kiyotaki
 - Stabilization policy, divine coincidence, and monetary and fiscal policies in NK models 
-- Around the NK models: (i) determinacy of equilibria and Taylor Principle (see Cochrane), (ii) Sticky Price vs. Sticky Information (see Mankiw-Reis), (iii) Forward Guidance Puzzle
+- Around the NK models: (i) determinacy of equilibria and Taylor Principle (see Cochrane), (ii) Sticky Price vs. Sticky Information (see Mankiw-Reis), (iii) Forward Guidance Puzzle (see McKay-Nakamura-Steinsson)
 
 
 ### Theme 2 - Week 2 and 3
