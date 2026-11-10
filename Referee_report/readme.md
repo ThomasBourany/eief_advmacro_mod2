@@ -87,6 +87,8 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 
 - Andreas Schaab and Stacy Yingqi Tan (2025). “[Monetary and Fiscal Policy According to HANK-IO](https://andreasschaab.com/wp-content/uploads/2023/04/schaab_tan_HANK_IO.pdf).” Working paper.
 
+- Yu-Ting Chiang and Piotr Żoch (2026). “[Financial Intermediation and Aggregate Demand: A Sufficient Statistics Approach](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdag032/8679134).” *Review of Economic Studies*, advance article.
+
 
 ## 7. Fiscal Deficits, Inflation, and Inequality
 
@@ -232,6 +234,10 @@ This referee report is *due* on the *6th of January* (8:00 pm).
 - Timothy J. Besley, Peter John Lambert, Isabelle A. Michalski-Roland, and John Van Reenen (2026). “[The Equilibrium Impact of Credit Frictions: Evidence from Default Risk Using Firm-Level Data](https://poid-serviceaddress.lse.ac.uk/PUBLICATIONS/abstract.asp?index=12467).” NBER Working Paper 35552.
 
 - Gideon Bornstein and Laura Castillo-Martinez (2026). “[Firm Exit and Financial Frictions](https://gideon-bornstein.com/).” NBER Working Paper 35479.
+
+- Yu-Ting Chiang and Piotr Żoch (2026). “[Optimal Asset Market Operations](https://www.stlouisfed.org/research/economists/chiang).” Federal Reserve Bank of St. Louis Working Paper 2025-014B.
+
+- Rustam Jamilov and Tommaso Monacelli (2026). “[Bewley Banks](https://academic.oup.com/restud/article/93/3/1889/8242670).” *Review of Economic Studies* 93(3):1889–1925.
 
 
 ## 18. Firm Investment and Capital Dynamics
